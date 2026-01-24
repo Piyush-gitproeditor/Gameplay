@@ -1,4 +1,4 @@
 # Gameplay
 this is my first repository
 <br>
-Author - Piyush Saini 
+Author - Piyush Saini (editor)
